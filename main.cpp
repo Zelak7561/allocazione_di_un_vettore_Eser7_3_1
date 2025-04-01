@@ -33,7 +33,7 @@ int main() {
     }
 
     for (int i = 0; i < col; i++) {
-        delete[] m[i];
+        delete[] m[i]; // Dealloco tutte le righe relative alla matrice
     }
 
     delete[] m;
