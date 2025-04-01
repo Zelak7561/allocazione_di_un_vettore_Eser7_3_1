@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "allocazione_di_un_vettore_Eser7_3_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "allocazione_di_un_vettore_Eser7_3_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-allocazione_di_un_vettore_Eser7_3_1-Debug-49b24882bd471a8a58da.json",
+					"name" : "allocazione_di_un_vettore_Eser7_3_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mario/CLionProjects/allocazione_di_un_vettore_Eser7.3_1/cmake-build-debug",
+		"source" : "C:/Users/mario/CLionProjects/allocazione_di_un_vettore_Eser7.3_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
